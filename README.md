@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
-**YoussefMarzouki/YoussefMarzouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+IT graduate passionate about Artificial Intelligence,
+Software Engineering, and building intelligent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+Languages:
+Python, Java, JavaScript, SQL
+
+AI & Machine Learning:
+PyTorch, TensorFlow, Scikit-learn
+
+Backend:
+FastAPI, Flask, Spring Boot, Node.js
+
+Frontend:
+Angular, React, Flutter
+
+Databases:
+PostgreSQL, MongoDB
+
+Tools:
+Docker, Git, Linux
+
+## Featured Projects
+
+🚀 StrokeAI
+AI-powered brain MRI analysis platform.
+
+🧠 Menthera AI
+AI-based mental wellness assistant.
+
+## Contact
+
+LinkedIn:
+Email:
