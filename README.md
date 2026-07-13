@@ -35,5 +35,5 @@ AI-based mental wellness assistant.
 
 ## Contact
 
-LinkedIn:
-Email:
+LinkedIn: youssef-marzouki
+Email: youssefmarzouki004@gmail.com
